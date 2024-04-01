@@ -1,0 +1,9 @@
+.transaction_history {
+  border: 2px solid black;
+  margin: 0% auto;
+  text-align: center;
+}
+th,
+td {
+  border: 2px solid black;
+}
